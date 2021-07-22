@@ -47,7 +47,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 
   * Application URL: https://itsnestor.github.io/Progressive.Budget/
   * Github Repository URL: https://github.com/itsnestor/Progressive.Budget
-  * Heroku URL: 
+  * Heroku URL: https://prog-budget-12345.herokuapp.com/
   
 
 ## License
